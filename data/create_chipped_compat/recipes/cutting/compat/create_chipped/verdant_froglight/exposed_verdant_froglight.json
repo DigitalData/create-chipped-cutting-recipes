@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:verdant_froglight"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:exposed_verdant_froglight",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
