@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:crimson_trapdoor"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:iron_barred_crimson_trapdoor",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:cherry_door"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:sliding_cherry_door",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

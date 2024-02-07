@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:calcite"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:overlapping_calcite_tiles",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
