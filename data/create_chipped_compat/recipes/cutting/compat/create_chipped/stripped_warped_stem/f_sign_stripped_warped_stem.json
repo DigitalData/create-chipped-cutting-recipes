@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:stripped_warped_stem"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:f_sign_stripped_warped_stem",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

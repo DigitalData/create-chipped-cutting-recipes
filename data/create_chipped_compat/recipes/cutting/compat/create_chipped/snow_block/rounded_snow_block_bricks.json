@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:snow_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:rounded_snow_block_bricks",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

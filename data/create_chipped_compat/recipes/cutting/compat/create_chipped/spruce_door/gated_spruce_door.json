@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:spruce_door"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:gated_spruce_door",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

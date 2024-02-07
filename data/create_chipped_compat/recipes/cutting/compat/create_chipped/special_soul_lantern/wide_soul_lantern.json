@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:special_soul_lantern"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:wide_soul_lantern",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
