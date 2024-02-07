@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:jungle_leaves"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:cherry_jungle_leaves",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
