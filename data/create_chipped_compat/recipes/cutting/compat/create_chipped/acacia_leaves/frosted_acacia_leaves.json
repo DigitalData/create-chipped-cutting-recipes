@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:acacia_leaves"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:frosted_acacia_leaves",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
