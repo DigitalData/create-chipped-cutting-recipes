@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:diorite"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:cracked_flat_diorite_tiles",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
