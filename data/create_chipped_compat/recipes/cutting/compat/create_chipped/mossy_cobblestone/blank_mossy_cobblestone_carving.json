@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:mossy_cobblestone"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:blank_mossy_cobblestone_carving",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

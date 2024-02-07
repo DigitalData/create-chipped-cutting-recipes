@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:mangrove_door"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:dual_paneled_mangrove_door",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

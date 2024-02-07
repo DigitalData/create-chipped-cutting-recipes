@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:mushroom_stem"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:blooming_mushroom_stem",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:mangrove_trapdoor"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:golden_barred_mangrove_trapdoor",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

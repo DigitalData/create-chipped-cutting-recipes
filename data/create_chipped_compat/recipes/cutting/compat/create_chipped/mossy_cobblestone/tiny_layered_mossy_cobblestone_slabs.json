@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:mossy_cobblestone"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:tiny_layered_mossy_cobblestone_slabs",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
