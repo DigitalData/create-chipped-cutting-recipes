@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:oak_leaves"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:dead_oak_leaves",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

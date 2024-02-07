@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:ochre_froglight"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:reinforced_ochre_froglight",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
