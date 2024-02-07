@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:pointed_dripstone"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:basalt_pointed_dripstone",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:pink_glazed_terracotta"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:shrunken_pink_glazed_terracotta",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

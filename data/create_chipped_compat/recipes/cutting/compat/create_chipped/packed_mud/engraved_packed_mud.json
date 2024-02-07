@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:packed_mud"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:engraved_packed_mud",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

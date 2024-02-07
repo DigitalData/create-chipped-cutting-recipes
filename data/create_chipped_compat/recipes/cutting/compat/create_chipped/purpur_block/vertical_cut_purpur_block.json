@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:purpur_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:vertical_cut_purpur_block",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
