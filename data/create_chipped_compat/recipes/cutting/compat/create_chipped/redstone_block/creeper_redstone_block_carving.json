@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:redstone_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:creeper_redstone_block_carving",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:red_glazed_terracotta"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:decorated_red_glazed_terracotta",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

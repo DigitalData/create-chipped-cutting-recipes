@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:redstone_lamp"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:thick_white_inlayed_redstone_lamp",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

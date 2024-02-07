@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:raw_gold_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:layed_raw_gold_block_bricks",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
