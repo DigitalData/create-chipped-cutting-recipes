@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:lapis_block"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:inlayed_lapis_block",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
