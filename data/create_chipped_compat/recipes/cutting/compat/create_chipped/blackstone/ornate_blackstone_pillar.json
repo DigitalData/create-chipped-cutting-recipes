@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:blackstone"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:ornate_blackstone_pillar",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}

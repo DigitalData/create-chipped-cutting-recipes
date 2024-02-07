@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "chipped"
+        }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "chipped:borderless_bricks"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:tiled_bordered_borderless_bricks",
+            "count": 1
+        }
+    ],
+    "processingTime": 50
+}
